@@ -1,2 +1,2 @@
 # WBSM4
-White-Box Implementation of the SM4 Encryption Algorithm
+This repo implements basic operations for matrices over the binary field using Java, including matrix inversion, rank calculation, matrix multiplication, matrix-vector multiplication, and the generation of random invertible matrices. These functionalities can aid in the construction of white-box implementations. As an example, this project has implemented the Xiao-Lai white-box SM4 scheme based on the aforementioned matrix operations, solely for the purpose of research on white-box cryptographic security.
